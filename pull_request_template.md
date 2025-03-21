@@ -1,5 +1,4 @@
-HEADER 2 - Proposed changes
-LINE BREAK
+HEADER 2 -  add greeting and obtain name and age
 
 HEADER 2 - Link to Product Tracker
 ITALICS - This will be a link to the issue you are specifically tasked with resolving.
@@ -8,7 +7,7 @@ HEADER 2 - Link to Figma/Zeplin
 
 ITALICS - This will be a link to the map or design behind the change decisions.
 
-HEADER 2 - Types of changes
+HEADER 2 - Types of changes add a new feature
 
 ITALICS - What types of changes does your code introduce?
 
